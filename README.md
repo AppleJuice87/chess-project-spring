@@ -1,5 +1,16 @@
 # ReadME
 
+## 시연 영상
+https://youtu.be/BCTzDyougnk 	(1. 로그인, 로그아웃, 닉네임 변경)
+https://youtu.be/h0tBWEmIKLU 	(2. 회원가입, 비밀번호 변경, 회원탈퇴)
+https://youtu.be/MgrkEzPJLuU 	(3. 매칭실패)
+https://youtu.be/lYx2UGoSQoA 	(4. 체크, 프로모션, 캐슬링, 체크메이트)
+https://youtu.be/qMcJ8IgdDL8 	(5. 멀티세션 4명 플레이 테스트)
+
+B.E. https://github.com/AppleJuice87/chess-project-spring
+F.E. https://github.com/Sharlottes/chess
+
+
 # version
 - jdk : Oracle OpenJDK 22.0.1
 - MySql : 9.0.1 (8버전 이상 사용가능)
